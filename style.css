@@ -1,0 +1,21 @@
+header{
+    width: 1000px;
+}
+.main-manu{
+    width: 100%;
+}
+.main-manu ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0 auto;
+    width: 1000px;
+}
+.main-manu li{
+    display: block;
+    float: left;        
+    min-height: 20px;
+    font-family: Arial;
+    font-size: 18px;
+    background-color: #4FC6AF;
+    position: relative;
+}
