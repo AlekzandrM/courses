@@ -19,3 +19,7 @@ header{
     background-color: #4FC6AF;
     position: relative;
 }
+.main-manu a{
+    color: white;
+    text-decoration: none;
+    padding: 0 20px;
