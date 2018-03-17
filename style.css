@@ -29,3 +29,12 @@ header{
     border-bottom: 1px solid #000000;
     color: #4A4A4A;
 }
+.main-manu .sub-menu {
+    display: none;    
+    position: absolute;
+    width: 150px;
+    top: 22px; 
+    left: -40px;
+    z-index: 2; 
+}
+.main-manu li:hover .sub-menu {display: block;}
